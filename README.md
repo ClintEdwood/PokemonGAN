@@ -8,3 +8,5 @@ To facilitate faster training on my machine, I resized the images in the dataset
 Additionally, considering the wide phenotypic variations among Pokémon, the obtained results do not come as a surprise. It is likely that a better approach would involve classifying the creatures based on visual similarities and providing textual descriptions as input to the model.
 
 In the root directory, there is a pre-trained model named 3000_generator that can be loaded by gen.py to generate images.
+
+<img src="https://github.com/ClintEdwood/PokemonGAN/blob/main/gen_images/Figure_1.png?raw=true" width="360" height="360">   <img src="https://github.com/ClintEdwood/PokemonGAN/blob/main/gen_images/Figure_2.png?raw=true" width="360" height="360">   <img src="https://github.com/ClintEdwood/PokemonGAN/blob/main/gen_images/Figure_3.png?raw=true" width="360" height="360"> 
